@@ -13,4 +13,8 @@ $db_table_sensordata = 	"pham_sensordata";
 // Password that sensors need to add data
 $sensorpwd = "sensorpass";
 
+// --- GRAPH SETTINGS ---
+$graph_width = "200";
+$graph_hegiht = "100";
+$graph_style = "border:1px solid #000000;";
 ?>
